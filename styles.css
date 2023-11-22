@@ -101,6 +101,12 @@ main {
     list-style-position: inside;
 }
 
+.left-line-spacing {
+    text-align: left;
+    line-height: 1.5; /* Adjust the line-height value as needed */
+    list-style-position: inside;
+}
+
 
 /* Style the footer */
 footer {
